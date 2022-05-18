@@ -394,7 +394,8 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--primary-text)",
+              WebkitTextStrokeWidth: "20",
+              color: "#000000",
             }}
           >
             We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
