@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x490B5C81b4b641BD22048e8bb7a1D287E708548B",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x490b5c81b4b641bd22048e8bb7a1d287e708548b",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Rinkeby",
+    "SYMBOL": "Ether",
+    "ID": 4
   },
   "NFT_NAME": "Crazy Unicorns NFT",
   "SYMBOL": "CUN",
-  "MAX_SUPPLY": 1024,
+  "MAX_SUPPLY": 6969,
   "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/crazyunicornnft",
